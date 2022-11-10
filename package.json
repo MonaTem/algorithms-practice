@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "electron": "^6.0.10",
+    "electron": "^18.3.7",
     "node-gyp": "^5.0.4"
   }
 }
